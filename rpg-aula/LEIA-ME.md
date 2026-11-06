@@ -8,6 +8,10 @@ Aplicativo educacional em um único arquivo HTML, sem instalação, sem login e 
 - **20 raças** de fantasia, incluindo Fada, Tritão, Sereia, Centauro, Tabaxi, Golias, Aasimar, Genasi, Sátiro, Harengon, Forjado e Kenku, todas com traço narrativo e bônus de PV.
 - **13 classes** de fantasia, incluindo Monge, Druida, Feiticeiro, Bruxo e Artífice.
 - 4 habilidades iniciais por classe e 1 nova habilidade a cada nível (até o nível 5).
+- Os 6 atributos de D&D (Força, Destreza, Constituição, Inteligência, Sabedoria e Carisma) são sorteados automaticamente para cada personagem usando 4d6, descartando o menor resultado de cada rolagem.
+- Cada atributo mostra seus pontos (3–18), modificador de teste, exemplo dos tomates e botão de teste d20 + modificador.
+- O aluno pode sortear novamente os seis atributos com confirmação; recomenda-se autorização do mestre.
+- Os atributos são incluídos no link de compartilhamento e aparecem também no painel do mestre. Personagens antigos no mesmo celular recebem uma rolagem ao carregar a nova versão, sem perder nível, poderes ou PV.
 - Pontos de vida, dano, cura, dados, quantidade de usos e descansos curto/longo.
 - Salvamento local no navegador do aluno.
 - Compartilhamento por link ou código, com painel do mestre para receber e consultar fichas.
