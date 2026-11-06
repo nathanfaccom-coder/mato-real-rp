@@ -5,7 +5,8 @@ Aplicativo educacional em um único arquivo HTML, sem instalação, sem login e 
 ## O que já funciona
 
 - Ficha interativa de aluno, compatível com celular.
-- 8 raças e 8 classes de fantasia.
+- **20 raças** de fantasia, incluindo Fada, Tritão, Sereia, Centauro, Tabaxi, Golias, Aasimar, Genasi, Sátiro, Harengon, Forjado e Kenku, todas com traço narrativo e bônus de PV.
+- **13 classes** de fantasia, incluindo Monge, Druida, Feiticeiro, Bruxo e Artífice.
 - 4 habilidades iniciais por classe e 1 nova habilidade a cada nível (até o nível 5).
 - Pontos de vida, dano, cura, dados, quantidade de usos e descansos curto/longo.
 - Salvamento local no navegador do aluno.
